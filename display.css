@@ -1,0 +1,19 @@
+div{
+    height: 100px;
+    width: 100px;
+    border-style: dashed;
+    margin: 22px;
+    padding: 28px;
+    display: inline-block;
+}
+#b1{
+    background-color: rgba(255, 0, 0, 0.4);
+}
+#b2{
+    background-color: brown;
+    /* display: none; */
+    visibility: hidden;
+}
+#b3{
+    background-color: chocolate;
+}

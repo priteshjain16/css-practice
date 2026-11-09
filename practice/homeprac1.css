@@ -1,0 +1,29 @@
+#main{
+    background-color: gray;
+    border-width: 2px;
+    border-style: solid;
+    width: 65px;
+    height: 300pxpx;
+    padding: 20px;
+}
+#div1{
+    background-color: red;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    border-style: dotted;
+}
+#div2{
+    background-color: yellow;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    border-style: dotted;
+}
+#div3{
+    background-color: green;
+    border-radius: 50%;
+    border-style: dotted;
+     height: 60px;
+    width: 60px;
+}

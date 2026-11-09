@@ -1,0 +1,32 @@
+*{
+    color: peru;
+}
+h1{
+    color: aqua;
+}
+button{
+    color: burlywood;
+}
+#head1{
+    color: yellowgreen;
+    text-align: center;
+}
+.cl1{
+    color: blueviolet;
+}
+p{
+    text-align: justify;
+    line-height: 24px;
+    text-transform: capitalize;
+}
+
+#head2{
+    text-decoration: palevioletred wavy underline;
+    font-weight: 900;
+    font-family: monospace;
+    font-size: 9px;
+}
+
+a{
+    text-decoration: none;
+}

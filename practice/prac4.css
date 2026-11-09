@@ -1,0 +1,49 @@
+div{
+    height: 100px;
+    width: 100px;
+    border-color: aqua;
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+}
+/* header css */
+button{
+    background-color: burlywood;
+}
+a{
+    margin-right: 200px;
+    color: wheat;
+    text-decoration: none;
+    
+}
+#am{
+    color: burlywood;
+    font-size: 25px;
+}
+nav{
+   
+    background-color: black;
+    height: 60px;
+}
+
+/* div background color  */
+#div1{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+#div2{
+    background-color: rgba(0, 0, 255, 0.5);
+}
+#div3{
+    background-color: rgba(0, 255, 0, 0.5);
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+main{
+    height: 640px;
+}

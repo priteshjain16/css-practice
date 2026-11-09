@@ -1,0 +1,26 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    border-style: dashed;
+
+}
+
+button{
+    background-color: burlywood;
+}
+a{
+    margin-right: 200px;
+    color: wheat;
+    text-decoration: none;
+    
+}
+#am{
+    color: burlywood;
+    font-size: 25px;
+}
+nav{
+    background-color: black;
+    height: 60px;
+}
