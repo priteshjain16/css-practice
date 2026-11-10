@@ -1,0 +1,31 @@
+ul{
+    display: flex;
+    background-color: burlywood;
+    justify-content: space-evenly;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+}
+li{
+    list-style-type: none;
+   
+}
+
+#outer{
+    background-color: aquamarine;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+}
+#iner{
+    background-color: indianred;
+    height: 40px;
+    width: 40px;
+    /* align-self: flex-end; third question solution  */
+   
+}
