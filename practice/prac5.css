@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url(unnamed\ \(1\).jpg);
+    background-size: cover;
+    position: fixed;
+    right: 0px;
+    color: azure;
+    border-radius: 12px;
+    top: 40px;
+    
+
+    
+}

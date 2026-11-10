@@ -1,0 +1,14 @@
+div{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+body{
+    background-image: url(unnamed\ \(1\).jpg);
+    background-size: cover;
+}
+#box1{
+    background-image: url(unnamed\ \(1\).jpg);
+    background-size: cover;
+}

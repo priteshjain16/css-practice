@@ -1,0 +1,34 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: burlywood;
+}
+#box1{
+    position: absolute;
+    background-color: aqua;
+    z-index: 3;
+    left: 35px;
+   
+}
+#box2{
+    position: absolute;
+    background-color: cornflowerblue;
+    z-index: 4;
+    left: 40px;
+}
+#box3{
+    position: absolute;
+    background-color: darkorange;
+    z-index: 0;
+    left: 30px;
+}
+#box4{
+    position: absolute;
+    background-color: indianred;
+    z-index: -2;
+    left: 25px;
+}
+#box5{
+    position: absolute;
+    z-index: -3;
+}
