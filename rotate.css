@@ -1,0 +1,35 @@
+div{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    /* transform: rotate(45deg);
+    rotate: x 90deg; */
+    /* transform: scale(0.5); */
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    /* transition: all 2s ease-in 1s; */
+    /* animation-name: coloranimation;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+    animation-direction: alternate; */
+    animation: coloranimation 1s ease-in 2s infinite alternate;
+
+}
+@keyframes coloranimation {
+    0%{ left: 60px;}
+    40%{background-color: pink;}
+    100%{left: 1000px;}
+    
+}
+/* div:hover{
+    /* transform: scale(2,0.5);
+    rotate: 360deg;
+    background-color: aqua;
+    transform: translate(20px,40px); */
+    /* transform: skew(45deg);
+ } */
+
+/* animation  */
