@@ -1,0 +1,32 @@
+:root{
+    --color:purple;
+    --space:20px;
+}
+body{
+    padding: var(--space);
+}
+h1{
+    color: var(--color);
+}
+h1::after{
+    content: "🤖";
+}
+p{
+    font-weight: bold;
+}
+input[type="email"]{
+    border-color: var(--color);
+    border-style: solid;
+}
+button{
+    background-color: var(--color);
+}
+li:first-child{
+    color: red;
+}
+li:last-child{
+    color: var(--color);
+}
+li:nth-child(2){
+    font-weight: bolder;
+}

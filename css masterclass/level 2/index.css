@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+}
+nav{
+    background-color: black;
+    height: 60px;
+}
+#am{
+    color: brown;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 200px;
+}
+button{
+    background-color: yellow;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 40px;
+}
+#o{
+    background-color: rgba(133, 6, 27, 0.3);
+    overflow: auto;
+    box-shadow: 4px 5px 10px blue;
+}
+#n{
+    background-color: rgba(48, 135, 82, 0.393);
+    box-sizing: border-box;
+    box-shadow: 12px 12px 15px chocolate;
+    background-image: url(unnamed\ \(1\).jpg);
+    background-size: cover;
+    border-radius: 50%;
+    width: 300px;
+    height: 200px;
+}
+#e{
+    background-color: rgba(255, 0, 0, 0.5);
+   
+    box-sizing: border-box;
+}
+button{
+    cursor: pointer;
+}
+p{
+    
+    text-shadow: 3px 3px 5px purple;
+}
+
+footer{
+    background-color: black;
+    color: purple;
+    text-align: center;
+    text-decoration: wavy;
+    height: 80px;
+    
+}

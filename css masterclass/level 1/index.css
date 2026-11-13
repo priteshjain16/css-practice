@@ -1,0 +1,77 @@
+:root{
+    --bg-color: pink;
+}
+p{
+    color: green;
+}
+.note{
+    color: blue  !important;
+  
+}
+#message{
+    color: red;
+}
+div p{
+    color: pink;
+}
+div>p{
+    color: chartreuse;
+}
+h1+h2{
+    color: brown;
+}
+h1~h2{
+    color: purple;
+}
+.my-button{
+    background-color: blue;
+    color: white;
+}
+.my-button:active{
+    background-color: green;
+}
+li:first-child{
+    color: pink;
+}
+li:last-child{
+    color: chocolate;
+}
+li:nth-child(6){
+    background-color: blueviolet;
+}
+#hel::before{
+    content: "😎";
+}
+#hel::after{
+    content: "👌";
+}
+#o{
+    background-color: var(--bg-color);
+}
+#i{
+    background-color: var(--bg-color);
+}
+#t{
+    background-color: var(--bg-color);
+}
+#d{
+    background-color: var(--bg-color);
+}
+input[type="email"]{
+    border-radius: 5px;
+    border-color: pink;
+    border-style: dotted;
+}
+input[required]{
+    background-color: lightcoral;
+}
+a[href^="https"]{
+color: yellow;
+}
+a[href$=".pdf"]{
+    background-color: pink;
+}
+a[href*="card"]{
+    color: pink;
+    background-color: brown;
+}
