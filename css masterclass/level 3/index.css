@@ -5,3 +5,38 @@ div{
     width: 100px;
 
 }
+#one{
+    position: absolute;
+    z-index: 1;
+    left: 40px;
+}
+#two{
+    position: absolute;
+    z-index: 0;
+    left: 20px;
+}
+#three{
+    position: absolute;
+    z-index: 5;
+    left: 80px;
+    
+}
+#four{
+    position: absolute;
+    z-index: 3;
+    left: 60px;
+    
+}
+#five{
+    position: absolute;
+    z-index: 2;
+    left: 50px;
+}
+#img{
+    background-image: url(unnamed\ \(1\).jpg);
+    background-size: cover;
+    z-index: 10;
+    right: 40px;
+    bottom: 200px;
+    position: fixed;
+}

@@ -1,0 +1,18 @@
+div{
+    background-color: pink;
+    border: 2px solid blue;
+    width: min(90%, 1000px);
+    height: max(40vh, 100px);
+    font-size: clamp(24px ,40px, 80px);
+    background: radial-gradient(circle,pink ,yellow, blue
+    );
+}
+h1{
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.3);
+}
+body{
+    background-color: hsl(340, 50%, 23%);
+}
